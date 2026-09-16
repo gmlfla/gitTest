@@ -1,3 +1,5 @@
 GitHub 연습
 
 첫 번째 수정입니다.
+
+두 번째 수정은 feature/practice 브랜치에서 했습니다.
